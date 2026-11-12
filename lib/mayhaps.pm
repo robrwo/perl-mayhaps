@@ -31,6 +31,11 @@ This module allows you to call methods conditionally.  This is useful for chaine
               ->with_publishers
               ->mayhaps::with_sales_stats( $is_internal );
 
+=head2 What does "mayhaps" mean?
+
+It is an archaic English synonym for "maybe".
+There is already a module called L<maybe> with a different function.
+
 =cut
 
 1;
