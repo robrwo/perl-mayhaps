@@ -40,6 +40,26 @@ There is already a module called L<maybe> with a different function.
 
 None.
 
+=head1 prepend:SUPPORT
+
+Only the latest release of this module will be supported.
+
+This module requires Perl v5.14 or later.
+Future releases may only support Perl versions released in the last ten years.
+
+=head2 Reporting Bugs and Submitting Feature Requests
+
+=head1 append:SUPPORT
+
+If the bug you are reporting has security implications which make it inappropriate to send to a public issue tracker,
+then see F<SECURITY.md> for instructions how to report security vulnerabilities.
+
+=begin :prelude
+
+=for stopwords mayhaps
+
+=end :prelude
+
 =cut
 
 1;

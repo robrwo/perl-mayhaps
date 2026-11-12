@@ -1,0 +1,5 @@
+perltidy.ERR
+.build/
+mayhaps-v*/
+mayhaps-v*.tar.gz
+mayhaps-v*.sigstore.json
