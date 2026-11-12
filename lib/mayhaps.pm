@@ -24,7 +24,13 @@ is equivalent to
 
 =head1 DESCRIPTION
 
-This module allows you to call methods conditionally.  This is useful for chained methods, for example:
+This module allows you to call methods conditionally.
+
+Methods are prefixed with C<mehaps::>, and the first argument is a conditional.
+When it is true, the method is called with the remaining arguments.
+Otherwise it returns the object.
+
+This is useful for chained methods, for example:
 
     my $rs = $schema->resultset('Books')
               ->with_authors
