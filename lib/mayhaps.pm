@@ -36,6 +36,10 @@ This module allows you to call methods conditionally.  This is useful for chaine
 It is an archaic English synonym for "maybe".
 There is already a module called L<maybe> with a different function.
 
+=head1 EXPORTS
+
+None.
+
 =cut
 
 1;
