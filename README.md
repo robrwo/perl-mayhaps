@@ -44,6 +44,8 @@ Changes for version v0.1.2 (2026-11-13)
 
 - Documentation
     - Improved synopsis.
+- Tests
+    - Added more test cases.
 
 See the `Changes` file for more details.
 

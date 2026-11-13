@@ -4,6 +4,9 @@ Revision history for {{ $dist->name }}:
   [Documentation]
   - Improved synopsis.
 
+  [Tests]
+  - Added more test cases.
+
 v0.1.1    2026-11-13 08:04:18+00:00 Europe/London
   [Documentation]
   - Improved the description.
