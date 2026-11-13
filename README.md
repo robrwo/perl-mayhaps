@@ -38,6 +38,16 @@ my $rs = $schema->resultset('Books')
 It is an archaic English synonym for "maybe".
 There is already a module called [maybe](https://metacpan.org/pod/maybe) with a different function.
 
+# RECENT CHANGES
+
+Changes for version v0.1.1 (2026-11-13)
+
+- Documentation
+    - Improved the description.
+    - Fixed typo in synopsis.
+
+See the `Changes` file for more details.
+
 # REQUIREMENTS
 
 This module lists the following modules as runtime dependencies:
