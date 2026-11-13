@@ -16,11 +16,11 @@ sub AUTOLOAD {
 
     use mayhaps;
 
-    $obj->mayhaps::frobnicate( $has_hands, 'foo' );
+    $obj->mayhaps::frobnicate( $bool, @args );
 
 is equivalent to
 
-    ($has_hands) ? $obj->frobnicate('foo') : $obj;
+    ($bool) ? $obj->frobnicate(@args) : $obj;
 
 =head1 DESCRIPTION
 
