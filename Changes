@@ -4,6 +4,8 @@ Revision history for {{ $dist->name }}:
   [Documentation]
   - Improved synopsis.
 
+  - Added a security considerations section.
+
   [Tests]
   - Added more test cases.
 

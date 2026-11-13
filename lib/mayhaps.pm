@@ -46,6 +46,10 @@ There is already a module called L<maybe> with a different function.
 
 None.
 
+=head1 SECURITY CONSIDERATIONS
+
+There is no validation of the object or the calling method.
+
 =head1 prepend:SUPPORT
 
 Only the latest release of this module will be supported.

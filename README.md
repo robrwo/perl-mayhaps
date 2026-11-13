@@ -44,6 +44,7 @@ Changes for version v0.1.2 (2026-11-13)
 
 - Documentation
     - Improved synopsis.
+    - Added a security considerations section.
 - Tests
     - Added more test cases.
 
@@ -89,6 +90,10 @@ dzil install --install-command="cpan ."
 ```
 
 For more information, see [How to install CPAN modules](https://www.cpan.org/modules/INSTALL.html).
+
+# SECURITY CONSIDERATIONS
+
+There is no validation of the object or the calling method.
 
 # SUPPORT
 
