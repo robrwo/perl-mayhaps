@@ -20,7 +20,7 @@ sub AUTOLOAD {
 
 is equivalent to
 
-    ($has_handles) ? $obj->frobnicate('foo') : $obj;
+    ($has_hands) ? $obj->frobnicate('foo') : $obj;
 
 =head1 DESCRIPTION
 
